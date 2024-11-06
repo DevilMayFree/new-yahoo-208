@@ -1,0 +1,1 @@
+!function(){var o=document.querySelector(".follow-button.non-loggedin");o&&o.addEventListener("click",(function(){var o="https://login.yahoo.com/?.done=".concat(encodeURIComponent(window.location.href));window.location.href=o}))}();
